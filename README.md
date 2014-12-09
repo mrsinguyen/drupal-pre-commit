@@ -1,4 +1,4 @@
-drupal-pre-commit
+Drupal Pre Commit
 =================
 
 A Drupal pre-commit hook to help write better code.
